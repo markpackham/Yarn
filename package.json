@@ -1,0 +1,8 @@
+{
+  "name": "YarnLearn",
+  "version": "1.0.0",
+  "description": "Learn Yarn package manager",
+  "main": "index.js",
+  "author": "Mark Packham <markpackham1@gmail.com>",
+  "license": "MIT"
+}
