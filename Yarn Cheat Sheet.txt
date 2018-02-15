@@ -2,6 +2,8 @@ Yarn is a JavaScript focused package manager.
 Yarn is an alternative to NPM (Node Packet Manager) created by Facebook, Yarn forced NPM to up it's game since Yarn was once miles better.
 Yarn is faster than NPM but NPM is far more common.
 
+Download Yarn from https://yarnpkg.com/lang/en/docs/install/
+
 # GET VERSION
 yarn -v (or --version)
 
